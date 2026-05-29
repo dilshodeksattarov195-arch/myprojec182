@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssender",
+        "uuid": 1124396,
+        "checksum": "m10yne"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
